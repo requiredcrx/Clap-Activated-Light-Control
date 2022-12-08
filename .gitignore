@@ -1,0 +1,10 @@
+# Ignore local configuration files
+config.ini
+secrets.json
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment directories
+venv/
+env/
